@@ -11,8 +11,8 @@ body {
 }
 
 #sentence {
-  position: absolute;
-  bottom: -200px;
+  /* position: absolute; */
+  bottom: 200px;
   font-size: 0;
   transition: all 2s;
   opacity: 0;
